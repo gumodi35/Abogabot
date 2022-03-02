@@ -10,7 +10,7 @@ _Como desarrolladores es necesario conocer los alcances del desarrollo de aplica
 
 ## Descripcion 🧑‍⚖️
 
-* _La aplicacion debera automatozar las demandas de sus clientes, eso lo hara por medio de una pagina web._
+* _La aplicacion debera automatizar las demandas de sus clientes, eso lo hara por medio de una aplicacion web._
 
 * _Debe de llenar un formulario el cual le proporcionara un metodo de pago para finalizar su transaccion._
 
@@ -51,7 +51,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 _En esta ocacion el proyecto fue realizado de forma independiente_
 
-* **Gualberto Montiel Diaz** - *Trabajo Inicial* - [gumodi35](https://github.com/gumodi35)
+* **Gualberto Montiel Diaz** - *Trabajo realizado* - [gumodi35](https://github.com/gumodi35)
 
 <div>
 <p style = 'text-align:center;'>
